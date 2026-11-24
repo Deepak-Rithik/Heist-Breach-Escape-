@@ -2,13 +2,19 @@
 
 Interactive Cybersecurity Escape Room
 
-A dual-experience interactive project combining cybersecurity concepts, puzzle-solving, time-based missions and gamified learning.
+An interactive cybersecurity-themed escape room that combines puzzle-solving, time-based missions, investigation challenges, and gamified learning.
 
-🚀 About the Project
+"🚀 Play the Live Demo" (https://breach-2.lovable.app/)
 
-PHANTOM HEIST + BREACH 15 is a cybersecurity-themed escape room application featuring two distinct interactive experiences.
+"💻 View GitHub Repository" (https://github.com/Deepak-Rithik/Heist-Breach-Escape-)
 
-Players investigate clues, solve challenges and complete missions against a countdown.
+---
+
+🎯 About the Project
+
+PHANTOM HEIST + BREACH 15 is a dual-experience cybersecurity learning application featuring two interactive mission environments.
+
+Players investigate clues, solve security-themed puzzles, and complete missions within a countdown.
 
 🎮 Project Experiences
 
@@ -18,14 +24,13 @@ A cyber-vault escape room experience.
 
 Features:
 
-- Four vault challenges
-- Password analysis
+- Password analysis challenge
 - Hexadecimal decoding
-- XSS-related security challenge
-- Badge/log investigation
-- 10-minute countdown
-- Scoring and hint penalties
-- Final vault override
+- Web security concepts
+- Badge and log investigation
+- Countdown-based gameplay
+- Scoring and hint system
+- Final vault challenge
 
 2. BREACH 15
 
@@ -38,8 +43,8 @@ Features:
 - SQL security challenge
 - Network log investigation
 - Four-digit override challenge
-- 15-minute countdown
-- Mission scoring
+- Mission countdown
+- Scoring and progress tracking
 
 🛠️ Technology Stack
 
@@ -54,54 +59,46 @@ Features:
 
 - Interactive puzzle-based gameplay
 - Time-based mission mechanics
+- Multiple challenge routes
 - Application state management
 - Reusable UI components
-- Multiple challenge routes
-- Score and completion tracking
+- Scoring and completion tracking
 
-📂 Project Structure
+🌐 Live Application
 
-src/
-├── components/
-├── lib/
-├── routes/
-└── styles/
+Try the deployed application:
 
-⚙️ Getting Started
+https://breach-2.lovable.app/
 
-Prerequisites
+📂 Repository Contents
 
-- Node.js
-- npm
+- "screenshots/" — Project screenshot collection
+- "PHANTOM-HEIST-full-source.pdf" — Complete source-code reference
+- "Final deployed Game Link" — Live application URL
+- "README.md" — Project documentation
 
-Installation
+Source-code note: The repository currently contains the source-code PDF reference. Individual runnable source files and project configuration files still need to be published separately for a complete clone-and-run repository.
 
-git clone https://github.com/YOUR-USERNAME/phantom-heist-breach-15.git
+🚀 Running the Application
 
-cd phantom-heist-breach-15
+The live demo is available at:
 
-npm install
+https://breach-2.lovable.app/
 
-npm run dev
-
-Open the local development URL displayed in your terminal.
-
-📸 Screenshots
-
-Project screenshots will be added here.
-
-🎯 Project Purpose
-
-To explore interactive web development and present cybersecurity concepts through engaging, game-based challenges.
+The repository currently provides the source-code PDF for reference rather than a complete locally installable source package.
 
 👨‍💻 Author
 
-Developed as a software development and cybersecurity learning project.
+Deepak Rithik
+
+Software Development | Interactive Web Applications | Cybersecurity Learning
 
 📄 Documentation
 
-The complete source-code PDF is included in this repository for reference.
+The complete source-code reference is available in this repository:
+
+"PHANTOM-HEIST-full-source.pdf"
 
 ---
 
-⭐ If you find this project interesting, feel free to explore the repository!
+⭐ If you find this project interesting, explore the live application and repository!
